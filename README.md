@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Fardin Khan</h1>
 <h3 align="center">A passionate Full-stack Web Developer from Bangladesh</h3>
-<img alt="Personal" height="400px" width="80%" align="middle" src="https://user-images.githubusercontent.com/102800605/202213261-b330a2fb-91ec-4852-ba28-8d0a722b04de.jpg"></img>
+<img alt="Personal" height="400px" width="100%" align="middle" src="https://user-images.githubusercontent.com/102800605/202216306-a2f19ced-5199-4a46-93e3-f13befd8edfc.png"></img>
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **fardinfirozkhan001@gmail.com**
