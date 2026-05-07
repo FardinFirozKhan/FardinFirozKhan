@@ -36,11 +36,9 @@ I specialize in backend development with Laravel and frontend development with V
 
 ## 🚀 Current Projects
 
-* 📌 Project Management Software (Trello-style app)
+* 📌 Foodlay (A Resturant & Food Delivery App)
 * 📌 Invoice & Payroll Management Systems
-* 📌 E-commerce Solutions
-* 📌 AI-powered Short Film Creation
-* 📌 Email Management Module in Meteor.js
+* 📌 DayOneMart(Multi Module E-commerce Solutions)
 
 ---
 
@@ -64,9 +62,8 @@ I specialize in backend development with Laravel and frontend development with V
 
 ## 📫 Connect With Me
 
-* GitHub: `@YOUR_USERNAME`
-* LinkedIn: `YOUR_LINKEDIN`
-* Portfolio: `YOUR_PORTFOLIO`
+* GitHub: `(https://github.com/FardinFirozKhan)`
+* Email: `fardinfirozkhan007@gmail.com`
 
 ---
 
