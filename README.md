@@ -1,56 +1,81 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24215
-Fork on GitHub
-8341
+# Hi there 👋 I'm Fardin Khan
 
-back to edit
+### 🚀 Full Stack Developer | Laravel & Vue.js Specialist | Building Modern Web Apps
 
-copy-markdown
+I'm a passionate software engineer from Bangladesh who loves building scalable web applications and modern dashboard systems.
+I specialize in backend development with Laravel and frontend development with Vue.js.
 
-download markdown
+---
 
-download backup
+## 💻 Tech Stack
 
-preview
-<h1 align="center">Hi 👋, I'm Md Fardin</h1>
-<h3 align="center">A Software Engineer From Bangladesh</h3>
+### Backend
 
-- 📫 How to reach me **fardinfirozkhan001@gmail.com**
+* Laravel
+* PHP
+* REST APIs
+* MySQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Frontend
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+* Vue.js
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+### Tools & Platforms
+
+* Git & GitHub
+* Linux Mint
+* AWS S3
+* Meteor.js
+
+---
+
+## 🚀 Current Projects
+
+* 📌 Project Management Software (Trello-style app)
+* 📌 Invoice & Payroll Management Systems
+* 📌 E-commerce Solutions
+* 📌 AI-powered Short Film Creation
+* 📌 Email Management Module in Meteor.js
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Django Development
+* System Design & Scalable Architecture
+* Cloud Deployment & DevOps
+
+---
+
+## 📈 GitHub Stats
+
+```txt
+🔥 Passionate about clean code
+⚡ Building modern SaaS applications
+🎯 Goal: Work remotely for international companies
+```
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: `@YOUR_USERNAME`
+* LinkedIn: `YOUR_LINKEDIN`
+* Portfolio: `YOUR_PORTFOLIO`
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex business ideas into beautiful and functional software products.
+
+---
+
+```bash
+"Code. Build. Improve. Repeat."
+```
