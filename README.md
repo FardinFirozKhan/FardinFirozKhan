@@ -20,6 +20,7 @@ I specialize in backend development with Laravel and frontend development with V
 
 * Vue.js
 * JavaScript
+* Inertia.js
 * HTML5
 * CSS3
 * Tailwind CSS
@@ -36,6 +37,7 @@ I specialize in backend development with Laravel and frontend development with V
 
 ## 🚀 Current Projects
 
+* 📌 TeleHealth(Multi Vendor Online Health Solutions)
 * 📌 Foodlay (A Resturant & Food Delivery App)
 * 📌 Invoice & Payroll Management Systems
 * 📌 DayOneMart(Multi Module E-commerce Solutions)
@@ -44,7 +46,6 @@ I specialize in backend development with Laravel and frontend development with V
 
 ## 🌱 Currently Learning
 
-* Advanced Django Development
 * System Design & Scalable Architecture
 * Cloud Deployment & DevOps
 
