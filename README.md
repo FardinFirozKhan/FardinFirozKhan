@@ -65,6 +65,7 @@ I specialize in backend development with Laravel and frontend development with V
 
 * GitHub: `(https://github.com/FardinFirozKhan)`
 * Email: `fardinfirozkhan007@gmail.com`
+* Number: `01643684954`
 
 ---
 
