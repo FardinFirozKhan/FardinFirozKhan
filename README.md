@@ -31,7 +31,6 @@ I specialize in backend development with Laravel and frontend development with V
 * Git & GitHub
 * Linux Mint
 * AWS S3
-* Meteor.js
 
 ---
 
